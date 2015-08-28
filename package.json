@@ -1,0 +1,33 @@
+{
+  "name": "swint-builder-svg",
+  "version": "0.1.0",
+  "description": "SVG sprite builder for Swint",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "eslint lib && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KnowRe/swint-builder-svg.git"
+  },
+  "keywords": [
+    "swint",
+    "task",
+    "batch"
+  ],
+  "author": "Kurt Cho <kivoloid@gmail.com>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KnowRe/swint-builder-svg/issues"
+  },
+  "homepage": "https://github.com/KnowRe/swint-builder-svg",
+  "dependencies": {
+    "async": "^1.4.2",
+    "svg-sprite": "^1.2.9",
+    "swint-helper": "^0.1.4"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
