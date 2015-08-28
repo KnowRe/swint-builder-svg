@@ -18,7 +18,7 @@ $ npm install --save swint-builder-svg
 ```javascript
 buildSVG({
 	name: 'Test',
-	inDir: path.join(__dirname, 'png'),
+	inDir: path.join(__dirname, 'svg'),
 	outDir: path.join(__dirname, 'out')
 }, function() {
 	// Build complete
