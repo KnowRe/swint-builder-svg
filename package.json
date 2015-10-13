@@ -12,8 +12,9 @@
   },
   "keywords": [
     "swint",
-    "task",
-    "batch"
+    "builder",
+    "sprite",
+    "svg"
   ],
   "author": "Kurt Cho <kivoloid@gmail.com>",
   "contributors": [],
