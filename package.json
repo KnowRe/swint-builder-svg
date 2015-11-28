@@ -1,6 +1,6 @@
 {
   "name": "swint-builder-svg",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SVG sprite builder for Swint",
   "main": "lib/index.js",
   "scripts": {
