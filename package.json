@@ -28,12 +28,8 @@
   "homepage": "https://github.com/KnowRe/swint-builder-svg",
   "dependencies": {
     "async": "^1.4.2",
-    "svg-sprite": {
-      "version": "1.2.18",
-      "dependencies": {
-        "xml-dom": "0.1.19"
-      }
-    },
+    "svg-sprite": "1.2.18",
+    "xmldom": "0.1.19",
     "swint-helper": "1.x"
   },
   "devDependencies": {
