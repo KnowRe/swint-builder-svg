@@ -1,2 +1,5 @@
+2016.01.10, Version 1.0.1
+ * Upgrade: Temporarily fixed dependencies due to the xml-dom issue
+
 2016.01.03, Version 1.0.0
  * First official release
