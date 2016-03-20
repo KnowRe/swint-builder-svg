@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KnowRe/swint-builder-svg.git"
+    "url": "https://github.com/KnowRe-Dev/swint-builder-svg.git"
   },
   "keywords": [
     "swint",
@@ -20,12 +20,12 @@
   "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KnowRe/swint-builder-svg/issues"
+    "url": "https://github.com/KnowRe-Dev/swint-builder-svg/issues"
   },
   "engines": {
     "node": ">=4.0.0"
   },
-  "homepage": "https://github.com/KnowRe/swint-builder-svg",
+  "homepage": "https://github.com/KnowRe-Dev/swint-builder-svg",
   "dependencies": {
     "async": "^1.5.2",
     "svg-sprite": "^1.2.19",
