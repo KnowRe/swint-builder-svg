@@ -1,4 +1,6 @@
 # swint-builder-svg
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Knowre-Dev/swint-builder-svg.svg)](https://greenkeeper.io/)
 SVG sprite builder for Swint
 
 **Warning: This is not the final draft yet, so do not use this until its official version is launched**
