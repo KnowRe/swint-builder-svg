@@ -27,13 +27,13 @@
   },
   "homepage": "https://github.com/KnowRe-Dev/swint-builder-svg",
   "dependencies": {
-    "async": "2.6.0",
+    "async": "2.6.2",
     "svg-sprite": "1.3.7",
-    "swint-helper": "1.2.8",
+    "swint-helper": "1.2.10",
     "xmldom": "0.1.27"
   },
   "devDependencies": {
-    "eslint": "4.12.1",
-    "mocha": "4.0.1"
+    "eslint": "5.15.1",
+    "mocha": "6.0.2"
   }
 }
